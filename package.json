@@ -2,7 +2,7 @@
   "name": "hello",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arhoy.github.io/hello",
+  "homepage": "https://arhoy.github.io/sample_host_react_app_with_github",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
