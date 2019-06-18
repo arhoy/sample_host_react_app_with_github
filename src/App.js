@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Host React App with GITHUB pages
+          Host React App with GITHUB pages this is some new crazy shit
         </a>
       </header>
     </div>
